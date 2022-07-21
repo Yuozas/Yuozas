@@ -1,6 +1,10 @@
 ### Hi there 👋
-⚡ Fun fact: I'm a programmer.
-😄 Pronouns: Anything you like.
+
+- 🌱 I’m currently learning anything that gets my attention.
+- 💬 Ask me about anything 🙂.
+- 👯 I’m looking to collaborate on any cool programming project. Right now maybe a game would be fun to create.
+- 😄 Pronouns: Anything you like.
+- ⚡ Fun fact: I'm a programmer.
 <!--
 **Yuozas/Yuozas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

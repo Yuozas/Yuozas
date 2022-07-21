@@ -9,9 +9,10 @@
 - ⚡ Fun fact: I'm a full-stack developer.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuozas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yuozas GitHub Stats" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuozas&hide=javascript" alt="Yuozas GitHub Stats" />
-
-<p align="right">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuozas&hide=javascript" alt="Yuozas GitHub Stats" />  
+<br />
+<br />
+<p align="center">
 I work on private repositories most of the time. That's why these stats don't show the correct data regarding what I actually do. Still good to have them here. 🙂
 </p>
 

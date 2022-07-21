@@ -7,15 +7,15 @@
 - 👯 I’m looking to collaborate on any cool programming project. Right now maybe a game would be fun to create.
 - 😄 Pronouns: Anything you like.
 - ⚡ Fun fact: I'm a full-stack developer.
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuozas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yuozas GitHub Stats" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuozas&hide=javascript" alt="Yuozas GitHub Stats" />  
-<br />
-<br />
-<p align="center">
+<br/>
+<div>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=yuozas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yuozas GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuozas&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=FFFFFF&bg_color=1d1f21" alt="Yuozas GitHub Stats" />  
+</div>
+<br/>
+<p>
 I work on private repositories most of the time. That's why these stats don't show the correct data regarding what I actually do. Still good to have them here. 🙂
 </p>
-
 <!--
 **Yuozas/Yuozas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
